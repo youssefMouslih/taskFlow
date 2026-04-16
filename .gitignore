@@ -1,0 +1,41 @@
+# Node dependencies
+/node_modules/
+/task-manager/node_modules/
+
+# Build output
+/dist/
+/build/
+/task-manager/dist/
+/task-manager/build/
+/.vite/
+/task-manager/.vite/
+
+# Local env files
+.env
+.env.*
+/task-manager/.env
+/task-manager/.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Misc
+coverage/
+.sass-cache/
+*.log
