@@ -1,10 +1,10 @@
 {
   "tasks": [
     {
-      "id": "1",
       "titre": "Configurer l'environnement de développement",
       "description": "Installer Node.js, npm, et configurer Vite avec React.",
-      "statut": "Terminé"
+      "statut": "En cours",
+      "id": "1"
     },
     {
       "id": "3",
@@ -17,6 +17,24 @@
       "description": "youssef does this app",
       "statut": "En cours",
       "id": "IA5-v6V"
+    },
+    {
+      "titre": "test",
+      "description": "jggj",
+      "statut": "À faire",
+      "id": "muTLkF-"
+    },
+    {
+      "titre": "test",
+      "description": "ttt",
+      "statut": "Terminé",
+      "id": "NzhbD0-"
+    },
+    {
+      "titre": "t",
+      "description": "h",
+      "statut": "À faire",
+      "id": "tamWWDB"
     }
   ]
 }
